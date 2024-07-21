@@ -1,3 +1,4 @@
 .venv/
 *.un~
 gitignore~  
+.ipynb_checkpoints/
